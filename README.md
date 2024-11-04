@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dubeyaddy" alt="dubeyaddy" /></a> </p>
 
-- 🔭 I’m currently working on [Mere Appne](https://www.mereappne.com/)
+- 🔭 I have also worked on [Mere Appne](https://www.mereappne.com/)
 
 - 🌱 I’m currently learning **Jetpack Compose with kotlin**
 
-- 👯 I have also worked on [GMMCO](https://www.gmmco.in/gmmco-cat/)
+- 👯 I’m currently working on [GMMCO](https://www.gmmco.in/gmmco-cat/)
 
 - 🤝 My personal work on playstore [Wisdom quotes](https://play.google.com/store/apps/details?id=com.addy.wisdomquotes)
 
