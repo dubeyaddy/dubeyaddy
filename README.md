@@ -1,33 +1,74 @@
 <h1 align="center">Hi 👋, I'm Adarsh Dubey</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">Senior Android Developer → Full-Stack Kotlin Engineer 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dubeyaddy" alt="dubeyaddy" /></a> </p>
-
-- 🔭 I have also worked on [Mere Appne](https://www.mereappne.com/)
-
-- 🌱 I’m currently learning **Jetpack Compose with kotlin**
-
-- 👯 I’m currently working on [GMMCO](https://www.gmmco.in/gmmco-cat/)
-
-- 🤝 My personal work on playstore [Wisdom quotes](https://play.google.com/store/apps/details?id=com.addy.wisdomquotes)
-
-- 👨‍💻 Know about my experiences [www.linkedin.com/in/adarsh-dubey-a25922169](www.linkedin.com/in/adarsh-dubey-a25922169)
-
-- 💬 Ask me about **Native Android developemnt (Java/Kotlin))**
-
-- 📫 How to reach me **dubeyadarsh1996@gmail.com**
-
-- 📄 All of my details can be found at [https://drive.google.com/file/d/1Oqj70SllgZCwF6BxDHKNMVxvNZXAErlm/view?usp=sharing](https://drive.google.com/file/d/1Oqj70SllgZCwF6BxDHKNMVxvNZXAErlm/view?usp=sharing)
-
-- ⚡ Fun fact **I am more into logical part of development but I love to spend time working on extravagant UI as well.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adarsh dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh dubey" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dubeyadarsh1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dubeyadarsh1996" height="30" width="40" /></a>
+<p align="center">
+Building scalable mobile apps | Learning Backend with Kotlin | Exploring KMP & System Design
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dubeyaddy&show_icons=true&locale=en&layout=compact" alt="dubeyaddy" /></p>
+## 🔥 Quick Highlights
+- 💼 Senior Android Developer at Accenture
+- 🌍 Working on MCIT Qatar National Public App (Government-scale product)
+- 📱 5+ years building scalable Android apps (Kotlin + Java)
+- 🚀 Transitioning into Backend with Kotlin + GraphQL + KMP
+- 🧠 Strong in Clean Architecture, MVVM, Performance Optimization
+
+---
+
+## 💼 Experience Snapshot
+✔ Enterprise Apps → GMMCO, Mere Appne  
+✔ Government App → MCIT Qatar National Public Platform  
+✔ Personal App → Wisdom Quotes on Play Store  
+
+📈 Focus Areas:
+- App Architecture & Scalability
+- Performance Optimization
+- Backend Integration & API Design
+- Kotlin Multiplatform Shared Logic
+
+---
+
+## 🧠 Currently Upskilling For Market
+- Kotlin Backend → Ktor / Spring Boot
+- GraphQL API Design
+- System Design for High-Scale Apps
+- Kotlin Multiplatform (Android + iOS Shared Code)
+- Cloud Basics (Docker, CI/CD, Firebase, AWS Fundamentals)
+
+---
+
+## 🛠 Tech Stack
+
+**Mobile**
+Kotlin • Java • Jetpack Compose • MVVM • Clean Architecture • Retrofit • Room • Firebase  
+
+**Backend (Learning → Production Ready Soon)**
+Kotlin • Ktor • Spring Boot • GraphQL • REST APIs • SQL  
+
+**Tools**
+Git • Android Studio • Firebase • CI/CD • Adobe XD  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyaddy&layout=compact&langs_count=8&theme=default&cache_seconds=1800" />
+</p>
+
+---
+
+## 🎯 Career Goal
+To become a **Full-Stack Kotlin Engineer** building scalable apps across Android, Backend & Multiplatform systems.
+
+---
+
+## 📫 Connect With Me
+📧 dubeyadarsh1996@gmail.com  
+💼 LinkedIn → www.linkedin.com/in/adarsh-dubey-a25922169  
+🧠 LeetCode → www.leetcode.com/dubeyadarsh1996  
+
+---
+
+## ⚡ Fun Fact
+I love solving complex logic problems and crafting beautiful UI with equal passion ✨
